@@ -1,0 +1,7 @@
+# One domain per line.
+# Blank lines and comments are ignored.
+
+x.com
+twimg.com
+cnn.com
+foxnews.com

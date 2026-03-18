@@ -1,0 +1,5 @@
+# Edit with: crontab -e
+# Example: block every day at 21:00 and unblock every day at 07:00.
+
+0 21 * * * /bin/bash /path/to/technitium-cron-scripts/technitium-block.sh
+0 7  * * * /bin/bash /path/to/technitium-cron-scripts/technitium-unblock.sh
